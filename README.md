@@ -12,9 +12,9 @@ npm i git+https://github.com/oelin/tempest
 
 ## Usage
 ```js
-import tempest from "tempest"
+import render from "tempest"
 
-tempest.render(
+render(
   "The {{fox}} jumped over the {{dog}}.",
   {
     fox: "quick brown fox",
