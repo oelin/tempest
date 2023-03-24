@@ -1,0 +1,9 @@
+{
+  "name": "tempest",
+  "version": "1.0.0",
+  "description": "A minimal templating library.",
+  "type": "module",
+  "main": "index.js",
+  "author": "oelin",
+  "license": "MIT"
+}
